@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de5db989-2968-4d3e-9d38-c9de4e000e70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/artifacts/weekdays.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/artifacts/weekdays.jar" afterDir="false" />
-    </list>
+    <list default="true" id="de5db989-2968-4d3e-9d38-c9de4e000e70" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,7 +164,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551966228925" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551966307955" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -179,6 +176,9 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BSOFTLAB\Documents\IntellJIDEA Projects\weekdays" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="net.bsoftlab.model" />
       <recent name="net.bsoftlab.dao.exception" />
@@ -228,7 +228,7 @@
       <workItem from="1551961084233" duration="3151000" />
       <workItem from="1551965016912" duration="158000" />
       <workItem from="1551965427326" duration="589000" />
-      <workItem from="1551966068331" duration="231000" />
+      <workItem from="1551966068331" duration="446000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1551966304033</created>
@@ -241,12 +241,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19874000" />
+    <option name="totallyTimeSpent" value="20320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="-5" width="1376" height="738" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
